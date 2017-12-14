@@ -1,5 +1,8 @@
 body, html {
-  margin: 0; overflow: auto; font-size: 12px;
+  margin: 0;
+  overflow: auto;
+  font-size: 12px;
+  cursor: url('monaco_cursor.png'), default;
 }
 .container {
   background: #4568dc; /* fallback for old browsers */
